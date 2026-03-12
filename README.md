@@ -1,6 +1,6 @@
 👋 Hi there! I’m Anosha Khairi
 
-🎓 CS student at George Mason University | Class of 2026
+🎓 CS student at George Mason University | Class of 2027
 
 🔍 Exploring: Data Analytics • Cybersecurity • Software Development
 
