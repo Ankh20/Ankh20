@@ -2,11 +2,11 @@
 
 🎓 CS student at George Mason University | Class of 2027
 
-🔍 Exploring: Data Analytics • Cybersecurity • Software Development
+🔍 Exploring: AI • Data Analytics • Cybersecurity • Software Development
 
 💻 Languages: Java • C • SQL • Python
 
-📊 Projects: SQL data analysis, C programming labs, Java structures & algorithms
+📊 Projects: SQL data analysis, C programming labs, Java structures & algorithms and more ...
 
 🚀 Always learning, building, and collaborating
 
